@@ -1,0 +1,33 @@
+# A-lightweight-detection-model-for-green-navel-oranges-in-natural-environments
+## Hi there 👋
+Thank you for your interest in and support of my research. To promote academic exchange and cooperation, we are providing Dataset 2 of green navel oranges in the TXT format. If you would like to expand the dataset, you can use [Imgaug for segmentation maps and masks](https://imgaug.readthedocs.io/en/latest/source/examples_segmentation_maps.html) to perform image augmentation. These datasets have been carefully organized and cleaned to provide valuable research resources for researchers in related fields.
+
+## Dataset Content:
+- Data Source: The dataset is sourced from the internet and covers various types of citrus fruits, including oranges, grapefruits, navel oranges, and lemons.
+- Data Format: The data annotations are provided in TXT format, and the structure and content of each file are described in detail below.
+```bashrc
+datasets
+├── images
+|    └── 0000.jpg
+|    └── 0001.jpg
+└── labels
+     └──labels.zip
+         └── 0000.txt
+         └── 0001.txt
+```
+- Data Volume: The dataset contains 607 images of green citrus fruits, sufficient to support a variety of research analyses and model training.
+
+## Dataset Usage Instructions:
+- Citation Requirement: If you use this dataset, please cite my paper (XXX) in your research paper or report to ensure the traceability of the data source.
+
+## Citation
+```shell
+@article{ZHANG2025112157,
+  title = {A lightweight detection model for green navel oranges in natural environments},
+  journal = {Engineering Applications of Artificial Intelligence},
+  volume = {161},
+  pages = {112157},
+  year = {2025},
+}
+```
+
