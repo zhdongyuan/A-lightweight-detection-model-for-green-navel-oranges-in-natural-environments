@@ -15,7 +15,7 @@ datasets
          └── 0000.txt
          └── 0001.txt
 ```
-- Data Volume: The dataset contains 607 images of green citrus fruits, sufficient to support a variety of research analyses and model training.
+- Data Volume: The dataset contains 606 images of green citrus fruits, sufficient to support a variety of research analyses and model training.
 
 ## Dataset Usage Instructions:
 - Citation Requirement: If you use this [Green Oranges](https://github.com/zhdongyuan/A-lightweight-detection-model-for-green-navel-oranges-in-natural-environments/releases/download/V1.0.0/datasets.zip), please cite [my paper](https://www.sciencedirect.com/science/article/abs/pii/S0952197625021657) in your research paper or report to ensure the traceability of the data source.
